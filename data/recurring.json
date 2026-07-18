@@ -13,6 +13,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "PERO.2234"
           }
         ]
@@ -44,6 +45,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "BARFT.4033"
           }
         ]
@@ -76,6 +78,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "MOFLUF.4596"
           }
         ]
@@ -111,6 +114,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "SHIPPO.2755"
           }
         ]
@@ -145,6 +149,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "HDMR.0062"
           }
         ]
@@ -179,6 +184,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "BARLOU.6018"
           }
         ]
@@ -211,6 +217,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "CAFELB.8203"
           }
         ]
@@ -242,6 +249,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "MILKY.5002"
           }
         ]
@@ -276,6 +284,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "YORU.7553"
           }
         ]
@@ -307,7 +316,8 @@
         "instance": "Friends+",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "Uraneta"
           }
         ]
@@ -340,6 +350,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "HKDMBG.5153"
           }
         ]
@@ -372,6 +383,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KMCAFE.2927"
           }
         ]
@@ -402,12 +414,14 @@
         "instance": "Group+",
         "attributes": [
           {
-            "key": "ルール",
-            "value": "PCVR限定"
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KMFTN.7972"
           },
           {
-            "key": "VRCグループ",
-            "value": "KMFTN.7972"
+            "key": "ルール",
+            "type": "text",
+            "value": "PCVR限定"
           }
         ]
       },
@@ -442,6 +456,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "PTPL.4317"
           }
         ]
@@ -477,6 +492,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "BARLL.9411"
           }
         ]
@@ -508,6 +524,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "WTYKM.1627"
           }
         ]
@@ -542,7 +559,8 @@
         "instance": "Friends+",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "稲狐夜憑宵"
           }
         ]
@@ -574,6 +592,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "GMOK.4997"
           }
         ]
@@ -606,6 +625,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KMGRM.9215"
           }
         ]
@@ -640,6 +660,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "AXCOFF.9840"
           }
         ]
@@ -671,6 +692,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "MOFMOF.3910"
           }
         ]
@@ -704,7 +726,8 @@
         "instance": "Friends",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "TA_ORU（タオル）"
           }
         ]
@@ -739,6 +762,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "VRCCOF.9935"
           }
         ]
@@ -772,6 +796,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "MRCAFE.7317"
           }
         ]
@@ -803,7 +828,8 @@
         "instance": "Friends+",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "おおさきくん"
           }
         ]
@@ -836,6 +862,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "VRCPZ.1387"
           }
         ]
@@ -867,6 +894,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "PMOFF.6989"
           }
         ]
@@ -898,6 +926,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KKRY.5477"
           }
         ]
@@ -929,6 +958,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KEMONO.1196"
           }
         ]
@@ -963,6 +993,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "PAWS.4054"
           }
         ]
@@ -998,6 +1029,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "QKMIKS.9579"
           }
         ]
@@ -1029,7 +1061,8 @@
         "instance": "Friends+",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "稲狐夜憑宵"
           }
         ]
@@ -1062,6 +1095,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KEMO.0570"
           }
         ]
@@ -1094,6 +1128,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KEMO.0570"
           }
         ]
@@ -1129,6 +1164,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KMRD.2941"
           }
         ]
@@ -1164,6 +1200,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "HANABU.4205"
           }
         ]
@@ -1196,6 +1233,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "LURE.2803"
           }
         ]
@@ -1229,7 +1267,8 @@
         "instance": "Friends+",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "九十九喜常"
           }
         ]
@@ -1262,6 +1301,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "VOLVOL.1958"
           }
         ]
@@ -1295,6 +1335,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KEMOFU.4330"
           }
         ]
@@ -1326,7 +1367,8 @@
         "instance": "Friends+",
         "attributes": [
           {
-            "key": "代表者VRChat_ALABEL",
+            "key": "代表者VRChat",
+            "type": "linkText",
             "value": "こん [29510648]"
           }
         ]
@@ -1358,6 +1400,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "FOSHU.5392"
           }
         ]
@@ -1390,6 +1433,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "BAR.9058"
           }
         ]
@@ -1421,6 +1465,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "KMUBTN.0888"
           }
         ]
@@ -1453,6 +1498,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "OOKAMI.0868"
           }
         ]
@@ -1487,6 +1533,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "BARHG.9705"
           }
         ]
@@ -1520,6 +1567,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "FELIC.8047"
           }
         ]
@@ -1552,6 +1600,7 @@
         "attributes": [
           {
             "key": "VRCグループ",
+            "type": "linkText",
             "value": "IKBC.5337"
           }
         ]
