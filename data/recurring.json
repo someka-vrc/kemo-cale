@@ -19,27 +19,7 @@
           {
             "key": "VRCグループ",
             "type": "linkUrl",
-            "value": "https://vrchat.com/home/group/grp_b5883d50-edac-4b0e-a8b9-62a8c25bf5c3"
-          },
-          {
-            "key": "代表者X",
-            "type": "xName",
-            "value": "そめか"
-          },
-          {
-            "key": "代表者X",
-            "type": "xId",
-            "value": "someka_vrc"
-          },
-          {
-            "key": "ルール",
-            "type": "text",
-            "value": "ドレスコードはありませんが、公序良俗に反しない姿でのご来店をお願いいたします。 \nなお、調度品が少々小さいため、小柄なアバターでのご来店をお勧めいたします。"
-          },
-          {
-            "key": "紹介文",
-            "type": "text",
-            "value": "「もふらふ」は、可愛いケモショタ店員が接客を務める喫茶店のイベントです。\nタグマーカー・QvPen完備なので初来店・無言勢の方にも安心。\nRP（ロールプレイ）も可。\n当店自慢の大きなオムライスを注文すると、店員さんがケチャップで落書きサービスをしてくれますよ。\n落ち着いた雰囲気の店内で、仲良しのフレンドとお話して過ごすも良し。\n美味しい食事に舌鼓を打つも良し。\nいろんな写真を撮って過ごすも良し。 \nケモノたちに囲まれながら、ゆったりとした時間をお楽しみください。"
+            "value": "https://example.com"
           }
         ]
       },
@@ -55,7 +35,1829 @@
         "repeatMonthDays": [],
         "startsAtTime": "21:00",
         "endsAtTime": "22:00",
-        "calendarEventId": "hid5l17qcflhmtiipbr7cqn0dg"
+        "calendarEventId": "v0rurk7kdntfbva4tu44apdrq4"
+      }
+    },
+    {
+      "title": "メスケモバー「FoxTail」",
+      "display": {
+        "dateText": "毎週月曜",
+        "timeText": "23:00〜",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "BARFT.4033"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "MO"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "mjngpc3dosvq2c47o5spulm308"
+      }
+    },
+    {
+      "title": "ケモショタ喫茶「もふらふ」",
+      "display": {
+        "dateText": "第1・3月曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "MOFLUF.4596"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3
+        ],
+        "repeatWeekdayCodes": [
+          "MO"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "1tfsd48p54jjvn5hru37rp1go0"
+      }
+    },
+    {
+      "title": "しっぽおさわり集会",
+      "display": {
+        "dateText": "第4月曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "SHIPPO.2755"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "MO"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "ukj9l08lnr4v1r0n8brd5v1j38"
+      }
+    },
+    {
+      "title": "和風かふぇ ひだまり",
+      "display": {
+        "dateText": "第1・3火曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "HDMR.0062"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3
+        ],
+        "repeatWeekdayCodes": [
+          "TU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "6ks5ans0cs4c08fkcmc7ujoi1s"
+      }
+    },
+    {
+      "title": "BAR loup affamé",
+      "display": {
+        "dateText": "毎週火曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "BARLOU.6018"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "d1lrreanv58t6099i3fqqgl2k0"
+      }
+    },
+    {
+      "title": "るーぷぶらん",
+      "display": {
+        "dateText": "毎週火曜",
+        "timeText": "21:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "CAFELB.8203"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "nrf95dddr92nehjmdid0u53mfo"
+      }
+    },
+    {
+      "title": "喫茶みるきぃむーん",
+      "display": {
+        "dateText": "第2・4火曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "MILKY.5002"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          2,
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "TU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "5vnnon5j6i684skft19cpma4ag"
+      }
+    },
+    {
+      "title": "Bar Lien de Nuit",
+      "display": {
+        "dateText": "毎週火曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "YORU.7553"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "k7a8sn9mis64588k0fg1p999d8"
+      }
+    },
+    {
+      "title": "Quest Kemono Bar -爆煙-",
+      "display": {
+        "dateText": "毎週水曜",
+        "timeText": "21:00〜22:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "Uraneta"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T13:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "22:00",
+        "calendarEventId": "r3gubo6chpkrsm0ao6huvs0e54"
+      }
+    },
+    {
+      "title": "はこだまボドゲ集会",
+      "display": {
+        "dateText": "毎週水曜",
+        "timeText": "22:00〜23:30",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group Public",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "HKDMBG.5153"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:30:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:30",
+        "calendarEventId": "lt4c8599p1mac43igbslsfhggg"
+      }
+    },
+    {
+      "title": "Kemo Cafe",
+      "display": {
+        "dateText": "毎週水曜",
+        "timeText": "22:00〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KMCAFE.2927"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "1k6s8r3baemado3si14gbk333o"
+      }
+    },
+    {
+      "title": "けもふとん屋 くるみゅ ※PCVR Only",
+      "display": {
+        "dateText": "第1・3水曜",
+        "timeText": "23:10〜24:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KMFTN.7972"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          },
+          {
+            "key": "ルール",
+            "type": "longText",
+            "value": "PCVR限定"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:10:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3
+        ],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:10",
+        "endsAtTime": "00:00",
+        "calendarEventId": "r2gjt68req0edl7l086n9nie68"
+      }
+    },
+    {
+      "title": "ちびけもカフェ ぷてぃぱれっと",
+      "display": {
+        "dateText": "第2・4水曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "PTPL.4317"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          2,
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "97kco235jfmk7okvsnpf9ve7a8"
+      }
+    },
+    {
+      "title": "Bar Luna Light",
+      "display": {
+        "dateText": "毎週水曜",
+        "timeText": "23:00〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "BARLL.9411"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "nleubfuotkug82u6p099m4he3k"
+      }
+    },
+    {
+      "title": "わちゃけも！",
+      "display": {
+        "dateText": "奇数週水曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "WTYKM.1627"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3,
+          5
+        ],
+        "repeatWeekdayCodes": [
+          "WE"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "vcb5l5c1ithj24kc955dmr6r6o"
+      }
+    },
+    {
+      "title": "Cafe&Bar Volugio",
+      "display": {
+        "dateText": "毎週木曜",
+        "timeText": "23:00〜",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "稲狐夜憑宵"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TH"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "an8cl83hctmdrbcvb2ljdljuvo"
+      }
+    },
+    {
+      "title": "ガチムチオスケモ集会",
+      "display": {
+        "dateText": "毎週木曜",
+        "timeText": "22:00〜",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "GMOK.4997"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TH"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "57lhkpjffcgag6v03e1dtdlf6c"
+      }
+    },
+    {
+      "title": "ケモぐるみ",
+      "display": {
+        "dateText": "第1・3木曜",
+        "timeText": "21:00〜22:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KMGRM.9215"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T13:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3
+        ],
+        "repeatWeekdayCodes": [
+          "TH"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "22:00",
+        "calendarEventId": "0utnbur1ejhhag4kl909uvf1po"
+      }
+    },
+    {
+      "title": "オオカミ少年カフェ「Axel Coffee」",
+      "display": {
+        "dateText": "毎週木曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "AXCOFF.9840"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TH"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "r5gd2vfmgj1mckadcnnlkh8k44"
+      }
+    },
+    {
+      "title": "けだまびより",
+      "display": {
+        "dateText": "第2・4木曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "MOFMOF.3910"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          2,
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "TH"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "elp31vqg6vgg6e92rmqoubhht0"
+      }
+    },
+    {
+      "title": "みすてりにゃすもふ",
+      "display": {
+        "dateText": "第4木曜",
+        "timeText": "23:00〜24:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Friends",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "TA_ORU（タオル）"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "TH"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "aqrukjii8ub4kcsaiju6ohva2s"
+      }
+    },
+    {
+      "title": "Kemonoラジオ体操部",
+      "display": {
+        "dateText": "毎週火・金",
+        "timeText": "21:00〜21:30",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "VRCCOF.9935"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T12:30:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TU",
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "21:30",
+        "calendarEventId": "nofmi58seik77c9ib4d1l3uujk"
+      }
+    },
+    {
+      "title": "ムルカフェ",
+      "display": {
+        "dateText": "毎週金曜",
+        "timeText": "21:00〜22:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "MRCAFE.7317"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T13:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "22:00",
+        "calendarEventId": "j28197c6iouga8h955lpjh6cug"
+      }
+    },
+    {
+      "title": "KemonoBar ずんどこ",
+      "display": {
+        "dateText": "毎週金曜",
+        "timeText": "22:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "おおさきくん"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "sckjq4uccoq2ohgpqng30dqsi4"
+      }
+    },
+    {
+      "title": "VRCふれあい動物園",
+      "display": {
+        "dateText": "毎週金曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "VRCPZ.1387"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "55uem7ma2b36g4db05minjlddg"
+      }
+    },
+    {
+      "title": "トーク＆フォトスタジオ フォトもっぷ",
+      "display": {
+        "dateText": "毎週金曜",
+        "timeText": "23:00〜24:30",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "PMOFF.6989"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:30:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:30",
+        "calendarEventId": "tg925mr16tvvrm0nrv49070n6c"
+      }
+    },
+    {
+      "title": "ケモノ居酒屋 狐狗狸屋",
+      "display": {
+        "dateText": "毎週金曜",
+        "timeText": "23:30〜24:30",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KKRY.5477"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:30:00.000Z",
+        "endsAt": "2099-12-31T15:30:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:30",
+        "endsAtTime": "00:30",
+        "calendarEventId": "rlc3ke03o8pnh80sjf95gmncj8"
+      }
+    },
+    {
+      "title": "kemono-chanアバター集会",
+      "display": {
+        "dateText": "第2金曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KEMONO.1196"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          2
+        ],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "8bk1lgjqb8jbcodsedkrmmpql4"
+      }
+    },
+    {
+      "title": "ぱぅずみーと",
+      "display": {
+        "dateText": "第1・3金曜",
+        "timeText": "22:45〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "PAWS.4054"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:45:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3
+        ],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:45",
+        "endsAtTime": "00:00",
+        "calendarEventId": "ph6ot57tufq5fc5qtf2aamkpvo"
+      }
+    },
+    {
+      "title": "池中健康促進委員会",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "13:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "QKMIKS.9579"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T04:00:00.000Z",
+        "endsAt": "2099-12-31T05:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "13:00",
+        "endsAtTime": "14:00",
+        "calendarEventId": "2gtqnh6er53qje1d941fnmtdrs"
+      }
+    },
+    {
+      "title": "ちびとら焼肉部",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "22:30〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "稲狐夜憑宵"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:30:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:30",
+        "endsAtTime": "00:00",
+        "calendarEventId": "i7b6br2cqljbf3tib5o3is333g"
+      }
+    },
+    {
+      "title": "なでなで倶楽部 MESUKEMO",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KEMO.0570"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "dpnvl1t6t7l0mfqfs3f76ecevs"
+      }
+    },
+    {
+      "title": "なでなで茶屋 牝獣-MESUKEMO-",
+      "display": {
+        "dateText": "第1・3土曜",
+        "timeText": "22:55〜24:15",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KEMO.0570"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:55:00.000Z",
+        "endsAt": "2099-12-31T15:15:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1,
+          3
+        ],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:55",
+        "endsAtTime": "00:15",
+        "calendarEventId": "ha87m36hsum63nq56gtnc7cnos"
+      }
+    },
+    {
+      "title": "けもラジ",
+      "display": {
+        "dateText": "第2・4土曜",
+        "timeText": "22:00〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KMRD.2941"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          2,
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "9meae3vu67psb1jss2mrlesa14"
+      }
+    },
+    {
+      "title": "ぶいはな部！",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "HANABU.4205"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "0cu0e40iem8ecrhnptgmj4lm4s"
+      }
+    },
+    {
+      "title": "ルルレレ集会",
+      "display": {
+        "dateText": "第2土曜",
+        "timeText": "21:00〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "LURE.2803"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          2
+        ],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "a462tnmatalv38efsld0ol18to"
+      }
+    },
+    {
+      "title": "ツクモアバターズ集会",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "21:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "九十九喜常"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T13:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "22:00",
+        "calendarEventId": "fevlvd0u2ar93mufcv6mlm9bi8"
+      }
+    },
+    {
+      "title": "ヴォルファ居酒屋 Volvol",
+      "display": {
+        "dateText": "第4土曜",
+        "timeText": "22:00〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "VOLVOL.1958"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "SA"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "kc3matpnu3k8j2jelm1lqq746s"
+      }
+    },
+    {
+      "title": "ケモフナデ会",
+      "display": {
+        "dateText": "毎週日曜",
+        "timeText": "20:00〜21:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KEMOFU.4330"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T11:00:00.000Z",
+        "endsAt": "2099-12-31T12:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "20:00",
+        "endsAtTime": "21:00",
+        "calendarEventId": "euj4efn405pfsav6ag89beek98"
+      }
+    },
+    {
+      "title": "Quest Kemono Park",
+      "display": {
+        "dateText": "毎週日曜",
+        "timeText": "21:00〜22:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "こん [29510648]"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:00:00.000Z",
+        "endsAt": "2099-12-31T13:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "21:00",
+        "endsAtTime": "22:00",
+        "calendarEventId": "utbcdumn8binck77gb6at0k9p4"
+      }
+    },
+    {
+      "title": "フォシュニアCafe〜ほるん〜",
+      "display": {
+        "dateText": "毎週日曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "FOSHU.5392"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "k69b85gmv6imrrgn8an4j7vsbo"
+      }
+    },
+    {
+      "title": "ねこ婆BAR",
+      "display": {
+        "dateText": "毎週日曜",
+        "timeText": "23:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "BAR.9058"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "lu5i97tb5rosppj3hdhj2vvi7s"
+      }
+    },
+    {
+      "title": "ケモノ添い寝イベント「けもうぶとん」",
+      "display": {
+        "dateText": "毎週日曜",
+        "timeText": "23:30〜",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "KMUBTN.0888"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:30:00.000Z",
+        "endsAt": "2099-12-31T15:30:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:30",
+        "endsAtTime": "00:30",
+        "calendarEventId": "l26drk47at7qph7r2l27lv5bnc"
+      }
+    },
+    {
+      "title": "裏盃喫茶「大狼組」",
+      "display": {
+        "dateText": "第1日曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "OOKAMI.0868"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          1
+        ],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "oooupp68sb8cijlsfa02d4907o"
+      }
+    },
+    {
+      "title": "けものみち",
+      "display": {
+        "dateText": "第4日曜",
+        "timeText": "23:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "BARHG.9705"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T14:00:00.000Z",
+        "endsAt": "2099-12-31T15:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByNthWeekday",
+        "repeatWeekNumbers": [
+          4
+        ],
+        "repeatWeekdayCodes": [
+          "SU"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "23:00",
+        "endsAtTime": "00:00",
+        "calendarEventId": "ar01t1vl58o07j99h7tehae234"
+      }
+    },
+    {
+      "title": "ふぇりちゃんはいいぞ",
+      "display": {
+        "dateText": "毎月7日",
+        "timeText": "21:30〜",
+        "platform": [
+          "PC"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "FELIC.8047"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-05T12:30:00.000Z",
+        "endsAt": "2099-12-31T13:30:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "monthlyByMonthDay",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [],
+        "repeatMonthDays": [
+          7
+        ],
+        "startsAtTime": "21:30",
+        "endsAtTime": "22:30",
+        "calendarEventId": "2q1nl8jv1kik49qf4rb96f2uf4"
+      }
+    },
+    {
+      "title": "イケケモBar「Cachette」",
+      "display": {
+        "dateText": "10/3, 10/17, 10/30",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "IKBC.5337"
+          },
+          {
+            "key": "VRCグループ",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "recurrence": {
+        "startsAt": "2025-10-03T13:00:00.000Z",
+        "endsAt": "2025-10-31T14:00:00.000Z",
+        "repeatInterval": 2,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "gi1682rr1dg7o5k4h1pneel80o"
       }
     }
   ]
