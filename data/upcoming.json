@@ -1,62 +1,6 @@
 {
   "events": [
     {
-      "title": "ぶいはな部！",
-      "display": {
-        "dateText": "毎週土曜",
-        "timeText": "22:00〜23:00",
-        "platform": [
-          "PC",
-          "Android"
-        ],
-        "instance": "Group+",
-        "attributes": [
-          {
-            "key": "VRCグループ",
-            "type": "linkText",
-            "value": "HANABU.4205"
-          },
-          {
-            "key": "VRCグループ",
-            "type": "linkUrl",
-            "value": "https://example.com"
-          }
-        ]
-      },
-      "occurrence": {
-        "startsAt": "2026-07-18T13:00:00.000Z",
-        "endsAt": "2026-07-18T14:00:00.000Z"
-      }
-    },
-    {
-      "title": "なでなで倶楽部 MESUKEMO",
-      "display": {
-        "dateText": "毎週土曜",
-        "timeText": "22:00〜23:00",
-        "platform": [
-          "PC",
-          "Android"
-        ],
-        "instance": "Group+",
-        "attributes": [
-          {
-            "key": "VRCグループ",
-            "type": "linkText",
-            "value": "KEMO.0570"
-          },
-          {
-            "key": "VRCグループ",
-            "type": "linkUrl",
-            "value": "https://example.com"
-          }
-        ]
-      },
-      "occurrence": {
-        "startsAt": "2026-07-18T13:00:00.000Z",
-        "endsAt": "2026-07-18T14:00:00.000Z"
-      }
-    },
-    {
       "title": "ちびとら焼肉部",
       "display": {
         "dateText": "毎週土曜",
