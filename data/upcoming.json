@@ -703,29 +703,6 @@
       }
     },
     {
-      "title": "VRCふれあい動物園",
-      "display": {
-        "dateText": "毎週金曜",
-        "timeText": "22:00〜23:00",
-        "platform": [
-          "PC",
-          "Android"
-        ],
-        "instance": "Group+",
-        "attributes": [
-          {
-            "key": "VRCグループ",
-            "type": "linkText",
-            "value": "VRCPZ.1387"
-          }
-        ]
-      },
-      "occurrence": {
-        "startsAt": "2026-07-24T13:00:00.000Z",
-        "endsAt": "2026-07-24T14:00:00.000Z"
-      }
-    },
-    {
       "title": "KemonoBar ずんどこ",
       "display": {
         "dateText": "毎週金曜",
@@ -740,6 +717,29 @@
             "key": "代表者VRChat",
             "type": "linkText",
             "value": "おおさきくん"
+          }
+        ]
+      },
+      "occurrence": {
+        "startsAt": "2026-07-24T13:00:00.000Z",
+        "endsAt": "2026-07-24T14:00:00.000Z"
+      }
+    },
+    {
+      "title": "VRCふれあい動物園",
+      "display": {
+        "dateText": "毎週金曜",
+        "timeText": "22:00〜23:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group+",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "VRCPZ.1387"
           }
         ]
       },
@@ -790,6 +790,29 @@
       "occurrence": {
         "startsAt": "2026-07-24T14:30:00.000Z",
         "endsAt": "2026-07-24T15:30:00.000Z"
+      }
+    },
+    {
+      "title": "池中健康促進委員会",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "13:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Group",
+        "attributes": [
+          {
+            "key": "VRCグループ",
+            "type": "linkText",
+            "value": "QKMIKS.9579"
+          }
+        ]
+      },
+      "occurrence": {
+        "startsAt": "2026-07-25T04:00:00.000Z",
+        "endsAt": "2026-07-25T05:00:00.000Z"
       }
     }
   ]
