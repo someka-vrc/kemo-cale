@@ -994,6 +994,34 @@
         "startsAt": "2026-07-25T04:00:00.000Z",
         "endsAt": "2026-07-25T05:00:00.000Z"
       }
+    },
+    {
+      "title": "ツクモアバターズ集会",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "21:00〜",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "九十九喜常"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "occurrence": {
+        "startsAt": "2026-07-25T12:00:00.000Z",
+        "endsAt": "2026-07-25T13:00:00.000Z"
+      }
     }
   ]
 }
