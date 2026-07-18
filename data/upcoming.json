@@ -1106,6 +1106,34 @@
         "startsAt": "2026-07-25T13:00:00.000Z",
         "endsAt": "2026-07-25T14:00:00.000Z"
       }
+    },
+    {
+      "title": "ちびとら焼肉部",
+      "display": {
+        "dateText": "毎週土曜",
+        "timeText": "22:30〜24:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "稲狐夜憑宵"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "occurrence": {
+        "startsAt": "2026-07-25T13:30:00.000Z",
+        "endsAt": "2026-07-25T15:00:00.000Z"
+      }
     }
   ]
 }
