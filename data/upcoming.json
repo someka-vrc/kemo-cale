@@ -1,33 +1,6 @@
 {
   "events": [
     {
-      "title": "ケモノ添い寝イベント「けもうぶとん」",
-      "display": {
-        "dateText": "毎週日曜",
-        "timeText": "23:30〜",
-        "platform": [
-          "PC"
-        ],
-        "instance": "Group",
-        "attributes": [
-          {
-            "key": "VRCグループ",
-            "type": "linkText",
-            "value": "KMUBTN.0888"
-          },
-          {
-            "key": "VRCグループ",
-            "type": "linkUrl",
-            "value": "https://example.com"
-          }
-        ]
-      },
-      "occurrence": {
-        "startsAt": "2026-07-19T14:30:00.000Z",
-        "endsAt": "2026-07-19T15:30:00.000Z"
-      }
-    },
-    {
       "title": "ぺろぺろ集会",
       "display": {
         "dateText": "毎週月曜",
