@@ -1,33 +1,6 @@
 {
   "events": [
     {
-      "title": "ケモフナデ会",
-      "display": {
-        "dateText": "毎週日曜",
-        "timeText": "20:00〜21:00",
-        "platform": [
-          "PC"
-        ],
-        "instance": "Group",
-        "attributes": [
-          {
-            "key": "VRCグループ",
-            "type": "linkText",
-            "value": "KEMOFU.4330"
-          },
-          {
-            "key": "VRCグループ",
-            "type": "linkUrl",
-            "value": "https://example.com"
-          }
-        ]
-      },
-      "occurrence": {
-        "startsAt": "2026-07-19T11:00:00.000Z",
-        "endsAt": "2026-07-19T12:00:00.000Z"
-      }
-    },
-    {
       "title": "Quest Kemono Park",
       "display": {
         "dateText": "毎週日曜",
@@ -1048,6 +1021,34 @@
       "occurrence": {
         "startsAt": "2026-07-26T11:00:00.000Z",
         "endsAt": "2026-07-26T12:00:00.000Z"
+      }
+    },
+    {
+      "title": "Quest Kemono Park",
+      "display": {
+        "dateText": "毎週日曜",
+        "timeText": "21:00〜22:00",
+        "platform": [
+          "PC",
+          "Android"
+        ],
+        "instance": "Friends+",
+        "attributes": [
+          {
+            "key": "代表者VRChat",
+            "type": "linkText",
+            "value": "こん [29510648]"
+          },
+          {
+            "key": "代表者VRChat",
+            "type": "linkUrl",
+            "value": "https://example.com"
+          }
+        ]
+      },
+      "occurrence": {
+        "startsAt": "2026-07-26T12:00:00.000Z",
+        "endsAt": "2026-07-26T13:00:00.000Z"
       }
     }
   ]
