@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-20T19:23:54.050Z",
+    "generatedAt": "2026-07-20T19:33:25.815Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -1027,7 +1027,7 @@
     },
     "patoちゃん集会 2025お誕生日特別編": {
       "title": "patoちゃん集会 2025お誕生日特別編",
-      "dateText": "10/2",
+      "dateText": "7/25",
       "timeText": "22:00〜23:00",
       "platform": [
         "PC"
@@ -2108,6 +2108,19 @@
       "calendarEventId": "2q1nl8jv1kik49qf4rb96f2uf4"
     },
     {
+      "title": "patoちゃん集会 2025お誕生日特別編",
+      "startsAt": "2026-07-25T13:00:00.000Z",
+      "endsAt": "2026-07-25T14:00:00.000Z",
+      "repeatInterval": 1,
+      "repeatRuleType": "single",
+      "repeatWeekNumbers": [],
+      "repeatWeekdayCodes": [],
+      "repeatMonthDays": [],
+      "startsAtTime": "22:00",
+      "endsAtTime": "23:00",
+      "calendarEventId": "oij4chis7v4qmk6n6iuhrl86e0"
+    },
+    {
       "title": "イケケモBar「Cachette」",
       "startsAt": "2025-10-03T13:00:00.000Z",
       "endsAt": "2025-10-31T14:00:00.000Z",
@@ -2238,6 +2251,11 @@
       "title": "ツクモアバターズ集会",
       "startsAt": "2026-07-25T12:00:00.000Z",
       "endsAt": "2026-07-25T13:00:00.000Z"
+    },
+    {
+      "title": "patoちゃん集会 2025お誕生日特別編",
+      "startsAt": "2026-07-25T13:00:00.000Z",
+      "endsAt": "2026-07-25T14:00:00.000Z"
     },
     {
       "title": "ヴォルファ居酒屋 Volvol",
@@ -3118,6 +3136,20 @@
         "calendarEventId": "2q1nl8jv1kik49qf4rb96f2uf4"
       }
     ],
-    "single": []
+    "single": [
+      {
+        "title": "patoちゃん集会 2025お誕生日特別編",
+        "startsAt": "2026-07-25T13:00:00.000Z",
+        "endsAt": "2026-07-25T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "single",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "oij4chis7v4qmk6n6iuhrl86e0"
+      }
+    ]
   }
 }
