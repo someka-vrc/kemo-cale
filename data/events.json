@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-21T13:53:56.914Z",
+    "generatedAt": "2026-07-21T14:23:54.967Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2137,26 +2137,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "るーぷぶらん",
-      "startsAt": "2026-07-21T12:00:00.000Z",
-      "endsAt": "2026-07-21T14:00:00.000Z"
-    },
-    {
-      "title": "Bar Lien de Nuit",
-      "startsAt": "2026-07-21T13:00:00.000Z",
-      "endsAt": "2026-07-21T14:00:00.000Z"
-    },
-    {
-      "title": "BAR loup affamé",
-      "startsAt": "2026-07-21T13:00:00.000Z",
-      "endsAt": "2026-07-21T14:00:00.000Z"
-    },
-    {
-      "title": "和風かふぇ ひだまり",
-      "startsAt": "2026-07-21T13:00:00.000Z",
-      "endsAt": "2026-07-21T14:00:00.000Z"
-    },
     {
       "title": "Quest Kemono Bar -爆煙-",
       "startsAt": "2026-07-22T12:00:00.000Z",
