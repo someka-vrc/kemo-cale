@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-22T14:54:04.144Z",
+    "generatedAt": "2026-07-22T15:23:57.645Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2137,16 +2137,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "Kemo Cafe",
-      "startsAt": "2026-07-22T13:00:00.000Z",
-      "endsAt": "2026-07-22T15:00:00.000Z"
-    },
-    {
-      "title": "Bar Luna Light",
-      "startsAt": "2026-07-22T14:00:00.000Z",
-      "endsAt": "2026-07-22T15:00:00.000Z"
-    },
     {
       "title": "けだまびより",
       "startsAt": "2026-07-23T13:00:00.000Z",
