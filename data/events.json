@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-24T01:53:54.639Z",
+    "generatedAt": "2026-07-24T02:03:21.354Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -1281,8 +1281,8 @@
     },
     "test": {
       "title": "test",
-      "dateText": "開催日",
-      "timeText": "時間",
+      "dateText": "毎週火・金",
+      "timeText": "22:00〜23:00",
       "platform": [
         "PC",
         "Android"
@@ -1342,12 +1342,12 @@
         {
           "key": "ルール",
           "type": "longText",
-          "value": "ルール"
+          "value": "そのころわたくしは、モリーオ市の博物局に勤めて居りました。\r\n\r\n十八等官でしたから役所のなかでも、ずうっと下の方でしたし俸給ほうきゅうもほんのわずかでしたが、受持ちが標本の採集や整理で生れ付き好きなことでしたから、わたくしは毎日ずいぶん愉快にはたらきました。殊にそのころ、モリーオ市では競馬場を植物園に拵こしらえ直すというので、その景色のいいまわりにアカシヤを植え込んだ広い地面が、切符売場や信号所の建物のついたまま、わたくしどもの役所の方へまわって来たものですから、わたくしはすぐ宿直という名前で月賦で買った小さな蓄音器と二十枚ばかりのレコードをもって、その番小屋にひとり住むことになりました。"
         },
         {
           "key": "紹介文",
           "type": "longText",
-          "value": "紹介文"
+          "value": "わたくしはそこの馬を置く場所に板で小さなしきいをつけて一疋の山羊を飼いました。毎朝その乳をしぼってつめたいパンをひたしてたべ、それから黒い革のかばんへすこしの書類や雑誌を入れ、靴もきれいにみがき、並木のポプラの影法師を大股にわたって市の役所へ出て行くのでした。\r\n\r\nあのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。\r\n\r\nまたそのなかでいっしょになったたくさんのひとたち、ファゼーロとロザーロ、羊飼のミーロや、顔の赤いこどもたち、地主のテーモ、山猫博士のボーガント・デストゥパーゴなど、いまこの暗い巨きな石の建物のなかで考えていると、みんなむかし風のなつかしい青い幻燈のように思われます。では、わたくしはいつかの小さなみだしをつけながら、しずかにあの年のイーハトーヴォの五月から十月までを書きつけましょう。"
         }
       ]
     }
@@ -2134,6 +2134,22 @@
       "startsAtTime": "22:00",
       "endsAtTime": "23:00",
       "calendarEventId": "gi1682rr1dg7o5k4h1pneel80o"
+    },
+    {
+      "title": "test",
+      "startsAt": "2025-10-05T13:00:00.000Z",
+      "endsAt": "2099-12-31T14:00:00.000Z",
+      "repeatInterval": 1,
+      "repeatRuleType": "weekly",
+      "repeatWeekNumbers": [],
+      "repeatWeekdayCodes": [
+        "TU",
+        "FR"
+      ],
+      "repeatMonthDays": [],
+      "startsAtTime": "22:00",
+      "endsAtTime": "23:00",
+      "calendarEventId": "ia5gk71etbr6frui5qkm0fm9t0"
     }
   ],
   "upcoming": [
@@ -2146,6 +2162,11 @@
       "title": "Kemonoラジオ体操部",
       "startsAt": "2026-07-24T12:00:00.000Z",
       "endsAt": "2026-07-24T12:30:00.000Z"
+    },
+    {
+      "title": "test",
+      "startsAt": "2026-07-24T13:00:00.000Z",
+      "endsAt": "2026-07-24T14:00:00.000Z"
     },
     {
       "title": "VRCふれあい動物園",
@@ -2265,6 +2286,11 @@
     {
       "title": "るーぷぶらん",
       "startsAt": "2026-07-28T12:00:00.000Z",
+      "endsAt": "2026-07-28T14:00:00.000Z"
+    },
+    {
+      "title": "test",
+      "startsAt": "2026-07-28T13:00:00.000Z",
       "endsAt": "2026-07-28T14:00:00.000Z"
     },
     {
@@ -2452,6 +2478,22 @@
         "startsAtTime": "22:00",
         "endsAtTime": "23:00",
         "calendarEventId": "k7a8sn9mis64588k0fg1p999d8"
+      },
+      {
+        "title": "test",
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TU",
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "ia5gk71etbr6frui5qkm0fm9t0"
       },
       {
         "title": "和風かふぇ ひだまり",
@@ -2768,6 +2810,22 @@
         "startsAtTime": "22:00",
         "endsAtTime": "23:00",
         "calendarEventId": "55uem7ma2b36g4db05minjlddg"
+      },
+      {
+        "title": "test",
+        "startsAt": "2025-10-05T13:00:00.000Z",
+        "endsAt": "2099-12-31T14:00:00.000Z",
+        "repeatInterval": 1,
+        "repeatRuleType": "weekly",
+        "repeatWeekNumbers": [],
+        "repeatWeekdayCodes": [
+          "TU",
+          "FR"
+        ],
+        "repeatMonthDays": [],
+        "startsAtTime": "22:00",
+        "endsAtTime": "23:00",
+        "calendarEventId": "ia5gk71etbr6frui5qkm0fm9t0"
       },
       {
         "title": "イケケモBar「Cachette」",
