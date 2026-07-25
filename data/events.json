@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T13:23:54.864Z",
+    "generatedAt": "2026-07-25T13:54:03.878Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2357,6 +2357,11 @@
       "title": "なでなで倶楽部 MESUKEMO",
       "startsAt": "2026-08-01T13:00:00.000Z",
       "endsAt": "2026-08-01T14:00:00.000Z"
+    },
+    {
+      "title": "ちびとら焼肉部",
+      "startsAt": "2026-08-01T13:30:00.000Z",
+      "endsAt": "2026-08-01T15:00:00.000Z"
     }
   ],
   "recurrence_udon": {
