@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T11:53:57.733Z",
+    "generatedAt": "2026-07-25T12:23:55.458Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2347,6 +2347,11 @@
       "title": "池中健康促進委員会",
       "startsAt": "2026-08-01T04:00:00.000Z",
       "endsAt": "2026-08-01T05:00:00.000Z"
+    },
+    {
+      "title": "ツクモアバターズ集会",
+      "startsAt": "2026-08-01T12:00:00.000Z",
+      "endsAt": "2026-08-01T13:00:00.000Z"
     }
   ],
   "recurrence_udon": {
