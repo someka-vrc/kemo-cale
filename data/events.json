@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-29T14:24:00.707Z",
+    "generatedAt": "2026-07-29T14:54:05.980Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2157,11 +2157,6 @@
       "title": "Kemo Cafe",
       "startsAt": "2026-07-29T13:00:00.000Z",
       "endsAt": "2026-07-29T15:00:00.000Z"
-    },
-    {
-      "title": "はこだまボドゲ集会",
-      "startsAt": "2026-07-29T13:00:00.000Z",
-      "endsAt": "2026-07-29T14:30:00.000Z"
     },
     {
       "title": "Bar Luna Light",
