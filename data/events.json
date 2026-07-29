@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-29T03:23:54.513Z",
+    "generatedAt": "2026-07-29T03:36:51.747Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -3161,8 +3161,7 @@
         "calendarEventId": "l26drk47at7qph7r2l27lv5bnc"
       }
     ],
-    "daily": [],
-    "monthlyByMonthDay": [
+    "other": [
       {
         "title": "ふぇりちゃんはいいぞ",
         "startsAt": "2025-10-05T12:30:00.000Z",
@@ -3177,9 +3176,7 @@
         "startsAtTime": "21:30",
         "endsAtTime": "22:30",
         "calendarEventId": "2q1nl8jv1kik49qf4rb96f2uf4"
-      }
-    ],
-    "single": [
+      },
       {
         "title": "patoちゃん集会 2025お誕生日特別編",
         "startsAt": "2026-07-25T13:00:00.000Z",
