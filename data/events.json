@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-30T11:53:59.283Z",
+    "generatedAt": "2026-07-30T12:23:54.768Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2347,6 +2347,11 @@
       "title": "けもふとん屋 くるみゅ ※PCVR Only",
       "startsAt": "2026-08-05T14:10:00.000Z",
       "endsAt": "2026-08-05T15:00:00.000Z"
+    },
+    {
+      "title": "ケモぐるみ",
+      "startsAt": "2026-08-06T12:00:00.000Z",
+      "endsAt": "2026-08-06T13:00:00.000Z"
     }
   ],
   "recurrence_udon": {
