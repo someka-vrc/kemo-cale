@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-30T12:53:55.543Z",
+    "generatedAt": "2026-07-30T13:23:57.254Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2352,6 +2352,16 @@
       "title": "ケモぐるみ",
       "startsAt": "2026-08-06T12:00:00.000Z",
       "endsAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "title": "オオカミ少年カフェ「Axel Coffee」",
+      "startsAt": "2026-08-06T13:00:00.000Z",
+      "endsAt": "2026-08-06T14:00:00.000Z"
+    },
+    {
+      "title": "ガチムチオスケモ集会",
+      "startsAt": "2026-08-06T13:00:00.000Z",
+      "endsAt": "2026-08-06T14:00:00.000Z"
     }
   ],
   "recurrence_udon": {
