@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-31T11:53:56.477Z",
+    "generatedAt": "2026-07-31T12:23:57.574Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2352,6 +2352,16 @@
       "title": "Cafe&Bar Volugio",
       "startsAt": "2026-08-06T14:00:00.000Z",
       "endsAt": "2026-08-06T15:00:00.000Z"
+    },
+    {
+      "title": "ムルカフェ",
+      "startsAt": "2026-08-07T12:00:00.000Z",
+      "endsAt": "2026-08-07T13:00:00.000Z"
+    },
+    {
+      "title": "Kemonoラジオ体操部",
+      "startsAt": "2026-08-07T12:00:00.000Z",
+      "endsAt": "2026-08-07T12:30:00.000Z"
     }
   ],
   "recurrence_udon": {
