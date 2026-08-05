@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-05T13:53:57.424Z",
+    "generatedAt": "2026-08-05T14:23:57.894Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2154,11 +2154,6 @@
   ],
   "upcoming": [
     {
-      "title": "わちゃけも！",
-      "startsAt": "2026-08-05T13:00:00.000Z",
-      "endsAt": "2026-08-05T14:00:00.000Z"
-    },
-    {
       "title": "Kemo Cafe",
       "startsAt": "2026-08-05T13:00:00.000Z",
       "endsAt": "2026-08-05T15:00:00.000Z"
@@ -2367,6 +2362,11 @@
       "title": "はこだまボドゲ集会",
       "startsAt": "2026-08-12T13:00:00.000Z",
       "endsAt": "2026-08-12T14:30:00.000Z"
+    },
+    {
+      "title": "Bar Luna Light",
+      "startsAt": "2026-08-12T14:00:00.000Z",
+      "endsAt": "2026-08-12T15:00:00.000Z"
     }
   ],
   "recurrence_udon": {
