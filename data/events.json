@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-09T11:53:54.674Z",
+    "generatedAt": "2026-08-09T12:23:55.355Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2154,11 +2154,6 @@
   ],
   "upcoming": [
     {
-      "title": "ケモフナデ会",
-      "startsAt": "2026-08-09T11:00:00.000Z",
-      "endsAt": "2026-08-09T12:00:00.000Z"
-    },
-    {
       "title": "Quest Kemono Park",
       "startsAt": "2026-08-09T12:00:00.000Z",
       "endsAt": "2026-08-09T13:00:00.000Z"
@@ -2342,6 +2337,11 @@
       "title": "ケモフナデ会",
       "startsAt": "2026-08-16T11:00:00.000Z",
       "endsAt": "2026-08-16T12:00:00.000Z"
+    },
+    {
+      "title": "Quest Kemono Park",
+      "startsAt": "2026-08-16T12:00:00.000Z",
+      "endsAt": "2026-08-16T13:00:00.000Z"
     }
   ],
   "recurrence_udon": {
