@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-10T13:53:58.000Z",
+    "generatedAt": "2026-08-10T14:23:57.190Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2342,6 +2342,11 @@
       "title": "ケモショタ喫茶「もふらふ」",
       "startsAt": "2026-08-17T13:00:00.000Z",
       "endsAt": "2026-08-17T14:00:00.000Z"
+    },
+    {
+      "title": "メスケモバー「FoxTail」",
+      "startsAt": "2026-08-17T14:00:00.000Z",
+      "endsAt": "2026-08-17T15:00:00.000Z"
     }
   ],
   "recurrence_udon": {
