@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-16T12:53:55.429Z",
+    "generatedAt": "2026-08-16T13:23:55.761Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2154,11 +2154,6 @@
   ],
   "upcoming": [
     {
-      "title": "Quest Kemono Park",
-      "startsAt": "2026-08-16T12:00:00.000Z",
-      "endsAt": "2026-08-16T13:00:00.000Z"
-    },
-    {
       "title": "フォシュニアCafe〜ほるん〜",
       "startsAt": "2026-08-16T13:00:00.000Z",
       "endsAt": "2026-08-16T14:00:00.000Z"
@@ -2357,6 +2352,11 @@
       "title": "Quest Kemono Park",
       "startsAt": "2026-08-23T12:00:00.000Z",
       "endsAt": "2026-08-23T13:00:00.000Z"
+    },
+    {
+      "title": "フォシュニアCafe〜ほるん〜",
+      "startsAt": "2026-08-23T13:00:00.000Z",
+      "endsAt": "2026-08-23T14:00:00.000Z"
     }
   ],
   "recurrence_udon": {
