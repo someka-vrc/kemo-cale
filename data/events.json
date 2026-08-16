@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-16T14:23:57.074Z",
+    "generatedAt": "2026-08-16T14:55:26.255Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2362,6 +2362,11 @@
       "title": "ねこ婆BAR",
       "startsAt": "2026-08-23T14:00:00.000Z",
       "endsAt": "2026-08-23T15:00:00.000Z"
+    },
+    {
+      "title": "ケモノ添い寝イベント「けもうぶとん」",
+      "startsAt": "2026-08-23T14:30:00.000Z",
+      "endsAt": "2026-08-23T15:30:00.000Z"
     }
   ],
   "recurrence_udon": {
