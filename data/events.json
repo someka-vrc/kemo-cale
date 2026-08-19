@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-19T14:53:57.844Z",
+    "generatedAt": "2026-08-19T15:23:56.907Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2153,21 +2153,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "Kemo Cafe",
-      "startsAt": "2026-08-19T13:00:00.000Z",
-      "endsAt": "2026-08-19T15:00:00.000Z"
-    },
-    {
-      "title": "Bar Luna Light",
-      "startsAt": "2026-08-19T14:00:00.000Z",
-      "endsAt": "2026-08-19T15:00:00.000Z"
-    },
-    {
-      "title": "けもふとん屋 くるみゅ ※PCVR Only",
-      "startsAt": "2026-08-19T14:10:00.000Z",
-      "endsAt": "2026-08-19T15:00:00.000Z"
-    },
     {
       "title": "ケモぐるみ",
       "startsAt": "2026-08-20T12:00:00.000Z",
