@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-20T14:54:01.484Z",
+    "generatedAt": "2026-08-20T15:23:59.674Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2153,11 +2153,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "Cafe&Bar Volugio",
-      "startsAt": "2026-08-20T14:00:00.000Z",
-      "endsAt": "2026-08-20T15:00:00.000Z"
-    },
     {
       "title": "ムルカフェ",
       "startsAt": "2026-08-21T12:00:00.000Z",
