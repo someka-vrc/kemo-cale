@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-31T12:23:56.113Z",
+    "generatedAt": "2026-08-31T12:53:57.064Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2362,6 +2362,11 @@
       "title": "ぺろぺろ集会",
       "startsAt": "2026-09-07T12:00:00.000Z",
       "endsAt": "2026-09-07T13:00:00.000Z"
+    },
+    {
+      "title": "ふぇりちゃんはいいぞ",
+      "startsAt": "2026-09-07T12:30:00.000Z",
+      "endsAt": "2026-09-07T13:30:00.000Z"
     }
   ],
   "recurrence_udon": {
