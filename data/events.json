@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-31T14:53:57.019Z",
+    "generatedAt": "2026-08-31T15:24:00.610Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2108,19 +2108,6 @@
       "calendarEventId": "2q1nl8jv1kik49qf4rb96f2uf4"
     },
     {
-      "title": "patoちゃん集会 2025お誕生日特別編",
-      "startsAt": "2026-07-25T13:00:00.000Z",
-      "endsAt": "2026-07-25T14:00:00.000Z",
-      "repeatInterval": 1,
-      "repeatRuleType": "single",
-      "repeatWeekNumbers": [],
-      "repeatWeekdayCodes": [],
-      "repeatMonthDays": [],
-      "startsAtTime": "22:00",
-      "endsAtTime": "23:00",
-      "calendarEventId": "oij4chis7v4qmk6n6iuhrl86e0"
-    },
-    {
       "title": "イケケモBar「Cachette」",
       "startsAt": "2025-10-03T13:00:00.000Z",
       "endsAt": "2025-10-31T14:00:00.000Z",
@@ -2153,11 +2140,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "メスケモバー「FoxTail」",
-      "startsAt": "2026-08-31T14:00:00.000Z",
-      "endsAt": "2026-08-31T15:00:00.000Z"
-    },
     {
       "title": "Kemonoラジオ体操部",
       "startsAt": "2026-09-01T12:00:00.000Z",
@@ -3201,19 +3183,6 @@
         "startsAtTime": "21:30",
         "endsAtTime": "22:30",
         "calendarEventId": "2q1nl8jv1kik49qf4rb96f2uf4"
-      },
-      {
-        "title": "patoちゃん集会 2025お誕生日特別編",
-        "startsAt": "2026-07-25T13:00:00.000Z",
-        "endsAt": "2026-07-25T14:00:00.000Z",
-        "repeatInterval": 1,
-        "repeatRuleType": "single",
-        "repeatWeekNumbers": [],
-        "repeatWeekdayCodes": [],
-        "repeatMonthDays": [],
-        "startsAtTime": "22:00",
-        "endsAtTime": "23:00",
-        "calendarEventId": "oij4chis7v4qmk6n6iuhrl86e0"
       }
     ]
   }
