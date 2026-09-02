@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-02T12:53:54.848Z",
+    "generatedAt": "2026-09-02T13:23:56.676Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2141,11 +2141,6 @@
   ],
   "upcoming": [
     {
-      "title": "Quest Kemono Bar -爆煙-",
-      "startsAt": "2026-09-02T12:00:00.000Z",
-      "endsAt": "2026-09-02T13:00:00.000Z"
-    },
-    {
       "title": "わちゃけも！",
       "startsAt": "2026-09-02T13:00:00.000Z",
       "endsAt": "2026-09-02T14:00:00.000Z"
@@ -2354,6 +2349,21 @@
       "title": "Quest Kemono Bar -爆煙-",
       "startsAt": "2026-09-09T12:00:00.000Z",
       "endsAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "title": "ちびけもカフェ ぷてぃぱれっと",
+      "startsAt": "2026-09-09T13:00:00.000Z",
+      "endsAt": "2026-09-09T14:00:00.000Z"
+    },
+    {
+      "title": "Kemo Cafe",
+      "startsAt": "2026-09-09T13:00:00.000Z",
+      "endsAt": "2026-09-09T15:00:00.000Z"
+    },
+    {
+      "title": "はこだまボドゲ集会",
+      "startsAt": "2026-09-09T13:00:00.000Z",
+      "endsAt": "2026-09-09T14:30:00.000Z"
     }
   ],
   "recurrence_udon": {
