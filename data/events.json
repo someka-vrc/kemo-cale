@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-02T11:53:55.650Z",
+    "generatedAt": "2026-09-02T12:23:58.362Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2349,6 +2349,11 @@
       "title": "BAR loup affamé",
       "startsAt": "2026-09-08T13:00:00.000Z",
       "endsAt": "2026-09-08T14:00:00.000Z"
+    },
+    {
+      "title": "Quest Kemono Bar -爆煙-",
+      "startsAt": "2026-09-09T12:00:00.000Z",
+      "endsAt": "2026-09-09T13:00:00.000Z"
     }
   ],
   "recurrence_udon": {
