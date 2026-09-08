@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-08T11:53:55.316Z",
+    "generatedAt": "2026-09-08T12:23:55.168Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2329,6 +2329,16 @@
       "title": "メスケモバー「FoxTail」",
       "startsAt": "2026-09-14T14:00:00.000Z",
       "endsAt": "2026-09-14T15:00:00.000Z"
+    },
+    {
+      "title": "Kemonoラジオ体操部",
+      "startsAt": "2026-09-15T12:00:00.000Z",
+      "endsAt": "2026-09-15T12:30:00.000Z"
+    },
+    {
+      "title": "るーぷぶらん",
+      "startsAt": "2026-09-15T12:00:00.000Z",
+      "endsAt": "2026-09-15T14:00:00.000Z"
     }
   ],
   "recurrence_udon": {
