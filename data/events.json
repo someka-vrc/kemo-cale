@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T11:53:57.342Z",
+    "generatedAt": "2026-09-09T12:23:55.464Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2329,6 +2329,11 @@
       "title": "和風かふぇ ひだまり",
       "startsAt": "2026-09-15T13:00:00.000Z",
       "endsAt": "2026-09-15T14:00:00.000Z"
+    },
+    {
+      "title": "Quest Kemono Bar -爆煙-",
+      "startsAt": "2026-09-16T12:00:00.000Z",
+      "endsAt": "2026-09-16T13:00:00.000Z"
     }
   ],
   "recurrence_udon": {
