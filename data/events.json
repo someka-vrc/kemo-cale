@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T14:53:58.834Z",
+    "generatedAt": "2026-09-09T15:23:56.622Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2140,16 +2140,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "Kemo Cafe",
-      "startsAt": "2026-09-09T13:00:00.000Z",
-      "endsAt": "2026-09-09T15:00:00.000Z"
-    },
-    {
-      "title": "Bar Luna Light",
-      "startsAt": "2026-09-09T14:00:00.000Z",
-      "endsAt": "2026-09-09T15:00:00.000Z"
-    },
     {
       "title": "けだまびより",
       "startsAt": "2026-09-10T13:00:00.000Z",
