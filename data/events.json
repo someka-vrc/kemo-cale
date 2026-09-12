@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T03:53:54.956Z",
+    "generatedAt": "2026-09-12T04:23:57.009Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2334,6 +2334,11 @@
       "title": "ケモノ居酒屋 狐狗狸屋",
       "startsAt": "2026-09-18T14:30:00.000Z",
       "endsAt": "2026-09-18T15:30:00.000Z"
+    },
+    {
+      "title": "池中健康促進委員会",
+      "startsAt": "2026-09-19T04:00:00.000Z",
+      "endsAt": "2026-09-19T05:00:00.000Z"
     }
   ],
   "recurrence_udon": {
