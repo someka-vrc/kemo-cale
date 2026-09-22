@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T12:24:01.003Z",
+    "generatedAt": "2026-09-22T12:53:59.646Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2140,11 +2140,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "Kemonoラジオ体操部",
-      "startsAt": "2026-09-22T12:00:00.000Z",
-      "endsAt": "2026-09-22T12:30:00.000Z"
-    },
     {
       "title": "るーぷぶらん",
       "startsAt": "2026-09-22T12:00:00.000Z",
