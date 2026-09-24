@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T11:53:56.160Z",
+    "generatedAt": "2026-09-24T12:23:56.648Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2334,6 +2334,11 @@
       "title": "Bar Luna Light",
       "startsAt": "2026-09-30T14:00:00.000Z",
       "endsAt": "2026-09-30T15:00:00.000Z"
+    },
+    {
+      "title": "ケモぐるみ",
+      "startsAt": "2026-10-01T12:00:00.000Z",
+      "endsAt": "2026-10-01T13:00:00.000Z"
     }
   ],
   "recurrence_udon": {
