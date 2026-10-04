@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-04T10:53:54.169Z",
+    "generatedAt": "2026-10-04T11:23:56.803Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2354,6 +2354,11 @@
       "title": "ちびとら焼肉部",
       "startsAt": "2026-10-10T13:30:00.000Z",
       "endsAt": "2026-10-10T15:00:00.000Z"
+    },
+    {
+      "title": "ケモフナデ会",
+      "startsAt": "2026-10-11T11:00:00.000Z",
+      "endsAt": "2026-10-11T12:00:00.000Z"
     }
   ],
   "recurrence_udon": {
