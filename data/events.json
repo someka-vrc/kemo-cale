@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-08T13:53:54.870Z",
+    "generatedAt": "2026-10-08T14:24:08.336Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2141,21 +2141,6 @@
   ],
   "upcoming": [
     {
-      "title": "けだまびより",
-      "startsAt": "2026-10-08T13:00:00.000Z",
-      "endsAt": "2026-10-08T14:00:00.000Z"
-    },
-    {
-      "title": "オオカミ少年カフェ「Axel Coffee」",
-      "startsAt": "2026-10-08T13:00:00.000Z",
-      "endsAt": "2026-10-08T14:00:00.000Z"
-    },
-    {
-      "title": "ガチムチオスケモ集会",
-      "startsAt": "2026-10-08T13:00:00.000Z",
-      "endsAt": "2026-10-08T14:00:00.000Z"
-    },
-    {
       "title": "Cafe&Bar Volugio",
       "startsAt": "2026-10-08T14:00:00.000Z",
       "endsAt": "2026-10-08T15:00:00.000Z"
@@ -2344,6 +2329,11 @@
       "title": "ガチムチオスケモ集会",
       "startsAt": "2026-10-15T13:00:00.000Z",
       "endsAt": "2026-10-15T14:00:00.000Z"
+    },
+    {
+      "title": "Cafe&Bar Volugio",
+      "startsAt": "2026-10-15T14:00:00.000Z",
+      "endsAt": "2026-10-15T15:00:00.000Z"
     }
   ],
   "recurrence_udon": {
