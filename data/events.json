@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-11T10:53:55.171Z",
+    "generatedAt": "2026-10-11T11:23:58.257Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2324,6 +2324,11 @@
       "title": "なでなで茶屋 牝獣-MESUKEMO-",
       "startsAt": "2026-10-17T13:55:00.000Z",
       "endsAt": "2026-10-17T15:15:00.000Z"
+    },
+    {
+      "title": "ケモフナデ会",
+      "startsAt": "2026-10-18T11:00:00.000Z",
+      "endsAt": "2026-10-18T12:00:00.000Z"
     }
   ],
   "recurrence_udon": {
