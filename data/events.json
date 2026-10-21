@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-21T13:53:56.496Z",
+    "generatedAt": "2026-10-21T14:23:55.999Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2141,11 +2141,6 @@
   ],
   "upcoming": [
     {
-      "title": "わちゃけも！",
-      "startsAt": "2026-10-21T13:00:00.000Z",
-      "endsAt": "2026-10-21T14:00:00.000Z"
-    },
-    {
       "title": "Kemo Cafe",
       "startsAt": "2026-10-21T13:00:00.000Z",
       "endsAt": "2026-10-21T15:00:00.000Z"
@@ -2359,6 +2354,11 @@
       "title": "はこだまボドゲ集会",
       "startsAt": "2026-10-28T13:00:00.000Z",
       "endsAt": "2026-10-28T14:30:00.000Z"
+    },
+    {
+      "title": "Bar Luna Light",
+      "startsAt": "2026-10-28T14:00:00.000Z",
+      "endsAt": "2026-10-28T15:00:00.000Z"
     }
   ],
   "recurrence_udon": {
