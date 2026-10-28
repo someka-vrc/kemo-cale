@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-28T14:53:59.316Z",
+    "generatedAt": "2026-10-28T15:23:58.658Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2140,16 +2140,6 @@
     }
   ],
   "upcoming": [
-    {
-      "title": "Kemo Cafe",
-      "startsAt": "2026-10-28T13:00:00.000Z",
-      "endsAt": "2026-10-28T15:00:00.000Z"
-    },
-    {
-      "title": "Bar Luna Light",
-      "startsAt": "2026-10-28T14:00:00.000Z",
-      "endsAt": "2026-10-28T15:00:00.000Z"
-    },
     {
       "title": "オオカミ少年カフェ「Axel Coffee」",
       "startsAt": "2026-10-29T13:00:00.000Z",
