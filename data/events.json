@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-13T13:23:56.138Z",
+    "generatedAt": "2026-11-13T13:53:55.116Z",
     "upcomingDaysAhead": 7
   },
   "events": {
@@ -2354,6 +2354,11 @@
       "title": "KemonoBar ずんどこ",
       "startsAt": "2026-11-20T13:00:00.000Z",
       "endsAt": "2026-11-20T14:00:00.000Z"
+    },
+    {
+      "title": "ぱぅずみーと",
+      "startsAt": "2026-11-20T13:45:00.000Z",
+      "endsAt": "2026-11-20T15:00:00.000Z"
     }
   ],
   "recurrence_udon": {
